@@ -6,7 +6,7 @@ Vue.use(Vuex)
 const state = {
   itemList: [],
   survivingItemList: [],
-  page: 'registration'
+  page: 'welcome'
 }
 
 const mutations = {
